@@ -1,4 +1,4 @@
 # learning-demo
 This is my first Repository.
 <br>
-Repository is created by Shubham. 
+Repository is created by Shubham Kumar. 
